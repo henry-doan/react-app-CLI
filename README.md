@@ -1,3 +1,6 @@
+# react-app-CLI
+React Application through the CLI with the https://egghead.io/lessons/react-bootstrap-a-react-application-through-the-cli-with-create-react-app?course=build-your-first-production-quality-react-app#/tab-transcript
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1211,6 +1214,7 @@ Note that in order to support routers that use HTML5 `pushState` API, you may wa
 
 ## Troubleshooting
 
+
 ### `npm test` hangs on macOS Sierra
 
 If you run `npm test` and the console gets stuck after printing `react-scripts test --env=jsdom` to the console there might be a problem with your [Watchman](https://facebook.github.io/watchman/) installation as described in [facebookincubator/create-react-app#713](https://github.com/facebookincubator/create-react-app/issues/713).
@@ -1242,3 +1246,5 @@ It is reported that `npm run build` can fail on machines with no swap space, whi
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+
+
